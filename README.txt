@@ -1,0 +1,1 @@
+Para executar o projeto é necessário laravel e a utilização de um banco de dados, e rodar o comando php artisan migrate --seed
